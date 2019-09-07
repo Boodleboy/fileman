@@ -1,0 +1,25 @@
+- lofty endgoal: like ranger, but written in C
+- spruce up the makefile
+- when drawing, write by character, not string
+- Adjust how the columns are divided
+- Add the third column (for directories at least)
+- Show contents of text files
+- Open files
+- remappable keys
+- multiple keys to same function
+- implement commands
+- implement colors
+- implement search function
+- numbers to repeat actions
+- copy/move files
+- rename files
+- implement command line
+- prevent overscrolling
+- make screen scroll
+- show/hide hidden files
+- folder entry counts
+- file size indicators
+- free memory on close
+- implement options
+- implement regexes?
+
