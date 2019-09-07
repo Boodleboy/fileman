@@ -1,2 +1,2 @@
 test: code.c
-	gcc code.c -o test -lncurses
+	gcc code.c -o fileman -lncurses
